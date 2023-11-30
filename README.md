@@ -21,7 +21,10 @@
 
 ### Database
 
+- PhpMyAdmin ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-4479A1?style=flat&logo=phpmyadmin&logoColor=white)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Pgadmin4 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
+- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### DevOps Environment
@@ -39,12 +42,12 @@
 
 ### Design
 - Figma ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-- Canva
 
 ### Code Editors
 - Visual Studio Code ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Additional Languages
 
-- Java
+- Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- Spring Boot![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 

@@ -3,7 +3,7 @@
 
 <div align="center">I am a beginner back-end developer, and I am continuing my training as a developer in a DevOps environment. You will find all my projects and practical work developed during my course.</div>
 
-## Technical Skills
+## My Technical Skills
 
 ### Frontend Development
 - HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -13,11 +13,13 @@
 - Bootstrap ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+  
 ### Backend Development
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - Symfony ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ### Database
 
@@ -46,8 +48,8 @@
 ### Code Editors
 - Visual Studio Code ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### Additional Languages
+### Technologies being learned
 
 - Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- Spring Boot![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+- Spring Boot ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 

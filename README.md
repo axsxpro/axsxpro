@@ -3,7 +3,7 @@
 
 <div align="center">I am a beginner back-end developer, and I am continuing my training as a developer in a DevOps environment. You will find all my projects and practical work developed during my course.</div>
 
-## My Technical Skills
+## My technical Skills
 
 ### Frontend Development
 - HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)

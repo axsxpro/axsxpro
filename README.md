@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Compétences Techniques
 
     Développement Frontend:
@@ -60,4 +59,3 @@ Compétences Techniques
     Langages supplémentaires:
         Python
         Java
--->

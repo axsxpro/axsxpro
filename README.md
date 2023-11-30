@@ -16,18 +16,16 @@
 ### Backend Development
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- Symfony (or other PHP framework) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+- Symfony ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Database
-- SQL
+
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### DevOps Environment
 - Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- Kubernetes ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- Jenkins ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-- CI/CD
 
 ### Collaboration Tools
 - Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,20 +44,7 @@
 ### Code Editors
 - Visual Studio Code ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### Project Management
-- Notion.so
-- Trello ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-
-### Testing and Debugging
-- Postman
-- Axios
-- Testing frameworks
-
-### Database
-- DBeaver
-- HeidiSQL
-
 ### Additional Languages
-- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 - Java
 

@@ -2,6 +2,18 @@
 ## Welcolm on my profil git !
 
 <div align="center">I am a beginner back-end developer, and I am continuing my training as an application developer in a DevOps environment. You will find all my projects and practical work developed during my course.</div>
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+  :email: alissasythpro@outlook.com
+  <br/> 
+  <br/>
+  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/alissa-syth)
+ 
+</div>
 
 ## My technical Skills
 

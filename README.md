@@ -1,16 +1,63 @@
 ### Hi there 👋
 
 <!--
-**axsxpro/axsxpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Compétences Techniques
 
-Here are some ideas to get you started:
+    Développement Frontend:
+        HTML5
+        CSS3
+        JavaScript
+        React.js
+        Bootstrap
+        Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    Développement Backend:
+        PHP
+        Node.js
+        Symfony (ou autre framework PHP)
+
+    Base de données:
+        SQL
+        MySQL
+        MongoDB
+
+    Environnement DevOps:
+        Docker
+        Kubernetes
+        Jenkins
+        CI/CD
+
+    Outils de Collaboration:
+        Git
+        GitHub
+        GitLab
+
+    Méthodologies et Outils Agile:
+        Scrum
+        Kanban
+        Trello
+
+    Design:
+        Figma
+        Canva
+
+    Éditeurs de Code:
+        Visual Studio Code
+
+    Gestion de Projet:
+        Notion.so
+        Trello
+
+    Test et Débogage:
+        Postman
+        Axios
+        Testing frameworks
+
+    Base de données:
+        DBeaver
+        HeidiSQL
+
+    Langages supplémentaires:
+        Python
+        Java
 -->

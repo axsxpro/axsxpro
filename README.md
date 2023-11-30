@@ -11,7 +11,7 @@
   <br/> 
   <br/>
   
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/alissa-syth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alissa-syth/)
  
 </div>
 

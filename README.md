@@ -50,7 +50,6 @@
 
 ### Agile Methodologies and Tools
 - Scrum
-- Kanban
 - Trello ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 
 ### Design

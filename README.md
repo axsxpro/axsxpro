@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## Welcolm on my profil git !
 
-<div align="center">I am a beginner back-end developer, and I am continuing my training as an application developer in a DevOps environment. You will find all my projects and practical work developed during my course.</div>
+<div align="center">I am a beginner back-end developer, and I am continuing my training as an application developer in a DevOps environment. You will find all my personnal projects and practical work developed during my course.</div>
 <br/>
 <br/>
 <br/>

@@ -1,8 +1,9 @@
 ### Hello there 👋
 ## Welcolm on my profil git !
 
-<div align="center">I am a beginner back-end developer, and I am continuing my training as an application developer in a DevOps environment. You will find all my personal projects and practical work developed during my course.</div>
+<div>I am a beginner back-end developer, and I am continuing my training as an application developer in a DevOps environment. You will find all my personal projects and practical work developed during my course.</div>
 <br/>
+<div>I work on private project :) You will not see all. </div>
 <br/>
 <br/>
 
@@ -11,7 +12,7 @@
   <br/> 
   <br/>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alissa-syth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alissa-flocon/)
  
 </div>
 
